@@ -53,6 +53,7 @@ if __name__ == "__main__":
     else:
         target_base = user_input
 
+
     # Strip accidental trailing forward slashes
     target_base = target_base.rstrip('/')
 
